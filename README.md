@@ -5,3 +5,8 @@
 #### 3) [Networking-notes](https://keralahacker.github.io/kochi-workshop-09-23/Networking-note.html)
 #### 4) [Wesng-Windows Exploit Suggester](https://github.com/keralahacker/kochi-workshop-09-23/blob/main/wesng.md)
 #### 5) [Spiderfoot](https://github.com/keralahacker/kochi-workshop-09-23/blob/main/Spiderfoot.md)
+#### 6) [CyberChef](https://github.com/keralahacker/CyberChef)
+
+## Project
+* based on 4,5&6 note try to do a project 
+* project outline will be updated in 24hrs
