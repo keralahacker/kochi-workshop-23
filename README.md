@@ -8,5 +8,5 @@
 #### 6) [CyberChef](https://github.com/keralahacker/CyberChef)
 
 ## Project
-* based on 4,5&6 note try to do a project 
+* based on [4](https://github.com/keralahacker/kochi-workshop-09-23/blob/main/wesng.md) , [5](https://github.com/keralahacker/kochi-workshop-09-23/blob/main/Spiderfoot.md) & [6](https://github.com/keralahacker/CyberChef) notes try to do a project and submit on {- dates will be updated -}
 * project outline will be updated in 24hrs
